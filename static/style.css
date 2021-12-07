@@ -1,0 +1,16 @@
+.btn {
+    margin: 1em;
+}
+
+.container input {
+    margin: 5px;
+}
+
+.card {
+    width: 10rem;
+}
+
+.card img {
+    max-width: auto;
+    max-height: auto;
+}
